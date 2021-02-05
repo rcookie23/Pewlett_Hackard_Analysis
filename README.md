@@ -51,7 +51,7 @@ Question: Are there enough qualified, retirement-ready employees in the departme
 
 Answer: The following table shows the number of mentor-elligible employees born in 1965 per department:
 
-![Table for 1965_mentors](/Screenshots/S1_table.png)
+![Table for 1965_mentors](/Screenshots/S2_table.png)
 
 In order for there to be enough mentors to cover the amount of new positions, management should widen their age range of possible mentors. See below for further thoughts on this process. 
 
